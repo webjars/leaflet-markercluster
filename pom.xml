@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>leaflet-markercluster</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.1</version>
     <name>Leaflet Markercluster</name>
     <description>WebJar for Leaflet Markercluster Plugin</description>
     <url>http://webjars.org</url>
@@ -51,7 +51,7 @@
         <url>http://github.com/webjars/leaflet-markercluster</url>
         <connection>scm:git:https://github.com/webjars/leaflet-markercluster.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/leaflet-markercluster.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>leaflet-markercluster-1.4.1</tag>
     </scm>
     
     <properties>
